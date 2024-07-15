@@ -88,3 +88,8 @@ fun MyScreen() {
 <p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:606/format:webp/1*8bF5pVlKd6jXZgZ1L5_O8w.jpeg" alt="Custom Layout Example">
 </p>
+
+<br>
+
+In this article, we learned how to create custom layout designs with Jetpack Compose. Custom layouts are useful when standard layouts are insufficient, allowing us to add more flexibility and customization to our applications. Using these techniques, we can shape our user interfaces exactly as needed. When we have more complex layout requirements, we can create our own custom layouts using MeasurePolicy and Layout functions.
+<br>
